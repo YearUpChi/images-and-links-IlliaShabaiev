@@ -1,0 +1,31 @@
+/* proacting styles */
+
+body {
+	background-color: orange;
+	color: lime;
+
+}
+
+h1 {
+	font-family : Arial;
+	text-decoration: none;
+}
+img {
+	width: 10%;
+	height: 15%;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+#first {
+	font-size: 25px; 
+} 
+
+.even {
+	 background-color: blue
+	}
+	#last { font-size: 
+	}
+	{font-style:cosmic }
